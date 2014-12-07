@@ -1,3 +1,9 @@
-*.swp
+cabal.sandbox.config
+.cabal-sandbox/
+dist/
+
 *.hi
 *.o
+
+*.swp
+.idea/
